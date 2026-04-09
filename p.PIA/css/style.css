@@ -94,3 +94,45 @@ footer {
         font-size: 39px;
     }
 }
+ @media (max-width: 768px) {
+
+  .titulo {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  .subtitulo {
+    font-size: 0.9rem;
+  }
+
+  /* tarjetas más compactas */
+  .flip-card {
+    height: 200px;
+  }
+
+  /* centrar todo */
+  .logo {
+    justify-content: center;
+  }
+}
+@media (max-width: 768px) {
+
+  .titulo {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  .subtitulo {
+    font-size: 0.9rem;
+  }
+
+  /* tarjetas más compactas */
+  .flip-card {
+    height: 200px;
+  }
+
+  /* centrar todo */
+  .logo {
+    justify-content: center;
+  }
+}
